@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ltcd
+ *
+ */
+module course {
+}
